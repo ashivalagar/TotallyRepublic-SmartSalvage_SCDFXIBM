@@ -1,6 +1,6 @@
 ---
 applications:
-  -buildpack: https://github.com/cloudfoundry-community/staticfile-buildpack.git
+- buildpack: https://github.com/cloudfoundry-community/staticfile-buildpack.git
   host: smartsing
   name: smartsing
   memory: 256M
